@@ -1,4 +1,3 @@
-  
 <?php
 // clase que administra la conexion con la base de datos
 class Database extends PDO
